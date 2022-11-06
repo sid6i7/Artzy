@@ -1,0 +1,13 @@
+const START_ROUTE = "/";
+const LOGIN_ROUTE = "/login";
+const REGISTER_ROUTE = "/register";
+const HOME_ROUTE = "/home";
+const PROFILE_ROUTE = "/profile";
+const GET_STARTED_ROUTE = "/gallery/get-started";
+const GALLERY_CREATION_ABOUT_ROUTE = GET_STARTED_ROUTE + "/about";
+const GALLERY_CREATION_PROFILE_ROUTE = GET_STARTED_ROUTE + "/profile";
+const GALLERY_CREATION_ARTWORK_ROUTE = GET_STARTED_ROUTE + "/artwork";
+const GALLERY_ROUTE = "/gallery";
+const ARTWORK_CREATION_ROUTE = "gallery/artwork/create";
+const ARTWORK_ROUTE = "artwork";
+const GALLERY_VISITED_ROUTE = "visit-gallery";

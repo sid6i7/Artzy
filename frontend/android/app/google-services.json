@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300668063431",
+    "project_id": "artzy-app-production",
+    "storage_bucket": "artzy-app-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300668063431:android:f25705f7ad206e080c38e2",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300668063431-2rc8grkpjqgvp75ibkem7nc8ckk4sucs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSjBgEV1xelqAJ1_kiT4U7QMjOy0kLVlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300668063431-2rc8grkpjqgvp75ibkem7nc8ckk4sucs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
